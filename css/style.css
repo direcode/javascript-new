@@ -74,3 +74,14 @@
 #cycler{position:relative;}
 #cycler img{position:absolute;z-index:1}
 #cycler img.active{z-index:3}
+
+
+.cycler{
+  width:710px;
+  height:533px;
+  margin:0px auto;
+}
+
+footer{
+  clear:both;
+}
